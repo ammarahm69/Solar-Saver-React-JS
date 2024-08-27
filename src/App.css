@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #231f1b;
+}
+.button {
+  background-color: #f97316; /* Orange color */
+  color: #fff; /* White text color */
+  padding: 12px 24px;
+  border-radius: 8px;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.6s ease, color 0.6s ease; /* Transition properties */
+}
+
+.button:hover {
+  background-color: #fff; /* White background on hover */
+  color: #f97316; /* Orange text color on hover */
+}
